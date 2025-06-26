@@ -15,7 +15,7 @@ I'm a passionate and curious developer with a background in Computer Science Eng
 ---
 
 📫 How to reach me:  
-![Mail 📧](mailto:abrarhuq@email.com) 
+📧 ![Mail](mailto:abrarhuq@email.com) 
 
 Let’s connect and build something awesome together!
 
