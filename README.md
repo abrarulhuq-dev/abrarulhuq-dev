@@ -17,6 +17,11 @@ I'm a passionate and curious developer with a background in Computer Science Eng
 📫 How to reach me:  
 📧 [Mail](mailto:abrarhuq@email.com) 
 
+
+![GitHub followers](https://img.shields.io/github/followers/abrarhuq?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/abrarhuq?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=abrarhuq&color=blue)
+
 Let’s connect and build something awesome together!
 
 
