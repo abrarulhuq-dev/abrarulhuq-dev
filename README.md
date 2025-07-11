@@ -1,7 +1,7 @@
 ## Hello World 👋, I'm Abrarul Huq M
 
 # 💫 About Me:
-I'm a passionate and curious developer with a background in Computer Science Engineering. I'm currently focused on building my skills in full stack development and exploring real-world projects to sharpen my knowledge.
+hi, I'm Abrarul Huq, a passionate full stack developer who loves blending logic and creativity to build real-world solutions. With a strong interest in mobile and web development, I enjoy working with technologies like React Native, TypeScript, Node.js, and MongoDB. I'm driven by curiosity, constant learning, and the excitement of turning ideas into user-friendly apps that make an impact.
 
 
 # 💻 Tech Stack:
