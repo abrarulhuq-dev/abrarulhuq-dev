@@ -1,7 +1,13 @@
 ## Hello World 👋, I'm Abrarul Huq M
 
 # 💫 About Me:
-hi, I'm Abrarul Huq, a passionate full stack developer who loves blending logic and creativity to build real-world solutions. With a strong interest in mobile and web development, I enjoy working with technologies like React Native, TypeScript, Node.js, and MongoDB. I'm driven by curiosity, constant learning, and the excitement of turning ideas into user-friendly apps that make an impact.
+I'm a Full-Stack Software Engineer with hands-on experience building
+production-ready web applications using React, Next.js, Node.js,
+Express, and MongoDB.
+
+I enjoy working across the full stack — from crafting responsive
+frontend interfaces to designing secure backend APIs, databases,
+and AI integrations.
 
 
 # 💻 Tech Stack:
