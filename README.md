@@ -37,9 +37,10 @@ and AI integrations.
 
 ---
 
-📫 How to reach me:  
-📧 [Mail](mailto:abrarhuq@email.com) 
-
+## Contact
+- Email: mrabrarhuq@gmail.com
+- LinkedIn: https://linkedin.com/in/abrarulhuq
+- GitHub: https://github.com/abrarulhuq-dev
 
 ![GitHub followers](https://img.shields.io/github/followers/abrarhuq?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/abrarhuq?affiliations=OWNER%2CCOLLABORATOR&style=social)
