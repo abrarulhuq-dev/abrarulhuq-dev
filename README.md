@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3EF7&height=300&section=header&text=Abrarul%20Huq&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%7C%20DevOps%20Engineer&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3EF7&height=300&section=header&text=Abrarul%20Huq&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer&descAlignY=58&descAlign=50" width="100%" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
   </a>
   &nbsp;
   <a href="mailto:mrabrarhuq@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-abrarul.huq@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-mrabrarhuq@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/abrarulhuq-dev" target="_blank">
@@ -35,11 +35,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abrarul-huq&label=Profile+Views&color=6C3EF7&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=abrarulhuq-dev&label=Profile+Views&color=6C3EF7&style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/abrarul-huq?label=Followers&style=flat-square&color=7C3AED&logo=github" />
+  <img src="https://img.shields.io/github/followers/abrarulhuq-dev?label=Followers&style=flat-square&color=7C3AED&logo=github" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/abrarul-huq?label=Total%20Stars&style=flat-square&color=8B5CF6&logo=github" />
+  <img src="https://img.shields.io/github/stars/abrarulhuq-dev?label=Total%20Stars&style=flat-square&color=8B5CF6&logo=github" />
 </p>
 
 ---
