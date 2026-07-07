@@ -271,7 +271,7 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 
 ---
 
-## 🏆 Achievements
+<!-- ## 🏆 Achievements
 
 <div align="center">
 
@@ -284,10 +284,10 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 | 🤝 **Community Mentor** | Mentored 20+ junior developers through structured code reviews and pair programming sessions |
 | 📦 **Zero-Downtime Deployments** | Achieved 100% zero-downtime deployment record across 40+ production releases |
 
-</div>
+</div> -->
 
 ---
-
+<!-- 
 ## 📜 Certifications
 
 <p align="center"><b>Amazon Web Services</b></p>
@@ -323,10 +323,10 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
   <img src="https://img.shields.io/badge/Meta-Front--End%20Developer%20Professional-0081FB?style=for-the-badge&logo=meta&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Meta-Back--End%20Developer%20Professional-0081FB?style=for-the-badge&logo=meta&logoColor=white" />
-</p>
+</p> -->
 
 ---
-
+<!-- 
 ## 💻 Coding Profiles
 
 <p align="center">
@@ -345,20 +345,20 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
   <a href="https://www.codechef.com/users/abrarul_huq" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-abrarul__huq-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrarul-huq&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abrarulhuq-dev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarul-huq&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarulhuq-dev&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abrarul-huq&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="65%" />
+  <img src="https://streak-stats.demolab.com?user=abrarulhuq-dev&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="65%" />
 </p>
 
 ---
@@ -366,7 +366,7 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abrarul-huq&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abrarulhuq-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 </p>
 
 ---
@@ -374,7 +374,7 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrarul-huq&bg_color=0d0d1a&color=7C3AED&line=6C3EF7&point=8B5CF6&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrarulhuq-dev&bg_color=0d0d1a&color=7C3AED&line=6C3EF7&point=8B5CF6&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -382,7 +382,7 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abrarul-huq/abrarul-huq/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/abrarulhuq-dev/abrarulhuq-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
