@@ -46,7 +46,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abrarul-huq&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="42%" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=abrarul-huq&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="42%" /> -->
 
 I am a **Full Stack & DevOps Engineer** with a passion for building production-grade software systems that are resilient, observable, and elegantly automated. My engineering philosophy centers on bridging the gap between clean application code and the infrastructure that runs it — treating every layer of the stack with the same rigour.
 
@@ -67,32 +67,37 @@ My home lab is a proving ground where I practice what production demands: networ
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,bash,html,css&theme=dark&perline=7" />
-</p>
-<p align="center">
   <sub><b>Languages</b></sub>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,figma&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,bash,html,css&theme=dark&perline=7" />
 </p>
+
 <p align="center">
   <sub><b>Frontend</b></sub>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,postgres,mysql,mongodb,redis&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,figma&theme=dark&perline=6" />
 </p>
+
+
 <p align="center">
   <sub><b>Backend &amp; Databases</b></sub>
 </p>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,nginx,linux,aws,git&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis,prisma&theme=dark&perline=8" />
 </p>
+
+
 <p align="center">
   <sub><b>Cloud, DevOps &amp; Tooling</b></sub>
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,nginx,linux,aws,git&theme=dark&perline=8" />
+</p>
+
 
 ---
 
