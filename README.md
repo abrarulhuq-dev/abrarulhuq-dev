@@ -361,6 +361,9 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
   <img src="https://streak-stats.demolab.com/?user=abrarulhuq-dev&theme=midnight-purple&hide_border=true&date_format=M%20j%5B,%20Y%5D" width="65%" />
 </p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abrarulhuq-dev&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+
+
 ---
 
 ## 🏅 GitHub Trophies
