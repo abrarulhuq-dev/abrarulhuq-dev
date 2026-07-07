@@ -233,7 +233,7 @@ This project directly reflects the production deployment skills applied at Zybo 
 <td>
 
 ### Full Stack Developer Intern &nbsp;·&nbsp; Zybo Tech Lab
-**Remote** &nbsp;|&nbsp; `Nov 2025 – Apr 2026`
+**Onsite** &nbsp;|&nbsp; `Nov 2025 – Apr 2026`
 
 Solely responsible for full-stack development and end-to-end deployment of two live business listing platforms. Operated as the primary engineer across the entire stack — from PostgreSQL schema design and Express API development to React frontend implementation and Linux VPS deployment.
 
