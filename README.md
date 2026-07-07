@@ -382,13 +382,13 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 
 ---
 
-<!-- ## 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abrarulhuq-dev/abrarulhuq-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
---- -->
+---
 
 ## 🎯 Current Focus
 
