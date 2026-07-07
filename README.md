@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abrarul%20Huq%20M&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20TypeScript&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=300&section=header&text=Abrarul%20Huq%20M&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20TypeScript&descAlignY=58&descAlign=50" width="100%" />
 </p>
 
 <p align="center">
@@ -409,5 +409,5 @@ abrarul_huq:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=footer" width="100%" />
 </p>
