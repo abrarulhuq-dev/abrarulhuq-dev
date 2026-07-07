@@ -357,11 +357,11 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarulhuq-dev&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="165" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=abrarulhuq-dev&theme=midnight-purple&hide_border=true&date_format=M%20j%5B,%20Y%5D" width="65%" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=abrarulhuq-dev&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
 
 
 ---
@@ -370,7 +370,7 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abrarulhuq-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-</p>
+</p> -->
 
 ---
 
@@ -382,13 +382,13 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abrarulhuq-dev/abrarulhuq-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
----
+--- -->
 
 ## 🎯 Current Focus
 
