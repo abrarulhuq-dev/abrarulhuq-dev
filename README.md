@@ -29,9 +29,9 @@
     <img src="https://img.shields.io/badge/GitHub-abrarulhuq--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="tel:+919003793215">
+  <!-- <a href="tel:+919003793215">
     <img src="https://img.shields.io/badge/Phone-%2B91%209003793215-6C3EF7?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abrarulhuq-dev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" width="43%" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=abrarulhuq-dev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" width="43%" /> -->
 
 I am a **Full Stack Software Developer** with hands-on production experience building and deploying scalable web applications using **React, Next.js, Node.js, TypeScript, and Express**. I have shipped 20+ medium-to-hard complexity features across two live platforms in an Agile environment — owning the full lifecycle from database schema design to VPS deployment.
 
@@ -65,26 +65,29 @@ I'm deeply interested in **LLM and AI API integration** — I have shipped produ
 ---
 
 ## 🛠 Tech Stack
+.
+<p align="center"><sub><b>Languages</b></sub></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,sql&theme=dark&perline=5" />
 </p>
-<p align="center"><sub><b>Languages</b></sub></p>
+
+<p align="center"><sub><b>Frontend</b></sub></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark&perline=5" />
 </p>
-<p align="center"><sub><b>Frontend</b></sub></p>
+
+<p align="center"><sub><b>Backend &amp; Databases</b></sub></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,prisma,redis&theme=dark&perline=7" />
 </p>
-<p align="center"><sub><b>Backend &amp; Databases</b></sub></p>
 
+<p align="center"><sub><b>Cloud, DevOps &amp; Tooling</b></sub></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,postman,vscode,cloudinary&theme=dark&perline=7" />
 </p>
-<p align="center"><sub><b>Cloud, DevOps &amp; Tooling</b></sub></p>
 
 ---
 
@@ -307,14 +310,14 @@ Solely responsible for full-stack development and end-to-end deployment of two l
 ## 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/abrarul-huq" target="_blank">
+  <a href="https://leetcode.com/u/abrarhuq" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-abrarul--huq-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abrarulhuq-dev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="165" />
@@ -350,7 +353,7 @@ Solely responsible for full-stack development and end-to-end deployment of two l
   <img src="https://raw.githubusercontent.com/abrarulhuq-dev/abrarulhuq-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
----
+--- -->
 
 ## 🎯 Current Focus
 
