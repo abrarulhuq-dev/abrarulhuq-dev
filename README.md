@@ -207,7 +207,7 @@ ContextAI demonstrates production-ready LLM engineering beyond simple prompt wra
 <br/>
 </details>
 
----
+<!-- ---
 
 <details>
 <summary><b>📊 &nbsp; PulseBoard — Real-Time Infrastructure Monitoring Dashboard</b></summary>
@@ -229,7 +229,7 @@ PulseBoard was born from the frustration of operating a home server cluster with
 <br/>
 </details> -->
 
----
+--- -->
 
 ## 💼 Experience
 
@@ -284,10 +284,10 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 | 🤝 **Community Mentor** | Mentored 20+ junior developers through structured code reviews and pair programming sessions |
 | 📦 **Zero-Downtime Deployments** | Achieved 100% zero-downtime deployment record across 40+ production releases |
 
-</div> -->
+</div>
 
 ---
-<!-- 
+
 ## 📜 Certifications
 
 <p align="center"><b>Amazon Web Services</b></p>
@@ -323,10 +323,10 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
   <img src="https://img.shields.io/badge/Meta-Front--End%20Developer%20Professional-0081FB?style=for-the-badge&logo=meta&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Meta-Back--End%20Developer%20Professional-0081FB?style=for-the-badge&logo=meta&logoColor=white" />
-</p> -->
+</p>
 
 ---
-<!-- 
+
 ## 💻 Coding Profiles
 
 <p align="center">
@@ -345,9 +345,9 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
   <a href="https://www.codechef.com/users/abrarul_huq" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-abrarul__huq-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-</p> -->
+</p>
 
----
+--- -->
 
 ## 📊 GitHub Analytics
 
@@ -420,21 +420,21 @@ abrarul_huq:
 ## 🤝 Connect
 
 <p align="center">
-  <a href="mailto:abrarul.huq@gmail.com">
+  <a href="mailto:mrabrarhuq@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/abrarul-huq" target="_blank">
+  <a href="https://linkedin.com/in/abrarulhuq" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/abrarul-huq" target="_blank">
+  <a href="https://github.com/abrarulhuq-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://abrarul-huq.dev" target="_blank">
+  <!-- <a href="https://abrarul-huq.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C3EF7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -444,5 +444,5 @@ abrarul_huq:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3EF7&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3EF7&height=220&section=footer" width="100%" />
 </p>
