@@ -65,7 +65,7 @@ I'm deeply interested in **LLM and AI API integration** — I have shipped produ
 ---
 
 ## 🛠 Tech Stack
-.
+
 <p align="center"><sub><b>Languages</b></sub></p>
 
 <p align="center">
