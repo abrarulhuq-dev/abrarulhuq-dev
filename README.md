@@ -317,7 +317,7 @@ Solely responsible for full-stack development and end-to-end deployment of two l
 
 ---
 
-<!-- ## 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abrarulhuq-dev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="165" />
@@ -353,7 +353,7 @@ Solely responsible for full-stack development and end-to-end deployment of two l
   <img src="https://raw.githubusercontent.com/abrarulhuq-dev/abrarulhuq-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
---- -->
+---
 
 ## 🎯 Current Focus
 
