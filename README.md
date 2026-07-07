@@ -229,7 +229,7 @@ PulseBoard was born from the frustration of operating a home server cluster with
 <br/>
 </details> -->
 
---- -->
+<!-- --- -->
 
 ## 💼 Experience
 
@@ -358,7 +358,7 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 </p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abrarulhuq-dev&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="65%" />
+  <img src="https://streak-stats.demolab.com/?user=abrarulhuq-dev&theme=midnight-purple&hide_border=true&date_format=M%20j%5B,%20Y%5D" width="65%" />
 </p>
 
 ---
