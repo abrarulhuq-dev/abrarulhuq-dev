@@ -351,11 +351,11 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abrarulhuq-dev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="165" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarulhuq-dev&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="165" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abrarulhuq-dev&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="65%" />
