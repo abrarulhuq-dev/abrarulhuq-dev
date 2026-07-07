@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3EF7&height=200&section=header&text=Abrarul%20Huq&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20DevOps%20Engineer&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3EF7&height=300&section=header&text=Abrarul%20Huq&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%7C%20DevOps%20Engineer&descAlignY=58&descAlign=50" width="100%" />
 </p>
 
 <p align="center">
@@ -13,23 +13,23 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20DevOps-7C3AED?style=flat-square&logo=code&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Bangladesh-8B5CF6?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Pandalam-8B5CF6?style=flat-square&logo=google-maps&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://abrarul-huq.dev" target="_blank">
+  <!-- <a href="https://abrarul-huq.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-abrarul--huq.dev-6C3EF7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a> -->
   &nbsp;
-  <a href="https://linkedin.com/in/abrarul-huq" target="_blank">
+  <a href="https://linkedin.com/in/abrarulhuq/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abrarul%20Huq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:abrarul.huq@gmail.com">
+  <a href="mailto:mrabrarhuq@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-abrarul.huq@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/abrarul-huq" target="_blank">
+  <a href="https://github.com/abrarulhuq-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-abrarul--huq-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
