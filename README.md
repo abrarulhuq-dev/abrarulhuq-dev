@@ -1,28 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3EF7&height=300&section=header&text=Abrarul%20Huq&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abrarul%20Huq%20M&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20TypeScript&descAlignY=58&descAlign=50" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%7C+DevOps+Practitioner;Containerization+%7C+CI%2FCD+Pipelines+%7C+Kubernetes;Self-Hosted+Infrastructure+%7C+Home+Lab+Architect;Building+Scalable+Systems+%7C+Clean+Architecture;Automating+Everything+That+Can+Be+Automated" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js;TypeScript+%7C+PostgreSQL+%7C+MongoDB;LLM+%2F+AI+API+Integration+%7C+Gemini+%C2%B7+OpenAI;Linux+VPS+Deployment+%7C+Docker+%C2%B7+Nginx+%C2%B7+PM2;20%2B+Production+Features+Shipped+Across+Live+Platforms" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Sc.-Computer%20Science%20%26%20Engineering-6C3EF7?style=flat-square&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6C3EF7?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20DevOps-7C3AED?style=flat-square&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI%20Integration-7C3AED?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Pandalam-8B5CF6?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-8B5CF6?style=flat-square&logo=google-maps&logoColor=white" />
 </p>
 
 <p align="center">
-  <!-- <a href="https://abrarul-huq.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-abrarul--huq.dev-6C3EF7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a> -->
-  &nbsp;
-  <a href="https://linkedin.com/in/abrarulhuq/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abrarul%20Huq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/abrarulhuq" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-abrarulhuq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:mrabrarhuq@gmail.com">
@@ -30,7 +26,11 @@
   </a>
   &nbsp;
   <a href="https://github.com/abrarulhuq-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-abrarul--huq-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-abrarulhuq--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="tel:+919003793215">
+    <img src="https://img.shields.io/badge/Phone-%2B91%209003793215-6C3EF7?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
 </p>
 
@@ -46,74 +46,60 @@
 
 ## 🧑‍💻 About Me
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=abrarul-huq&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="42%" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=abrarulhuq-dev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" width="43%" />
 
-I am a **Full Stack & DevOps Engineer** with a passion for building production-grade software systems that are resilient, observable, and elegantly automated. My engineering philosophy centers on bridging the gap between clean application code and the infrastructure that runs it — treating every layer of the stack with the same rigour.
+I am a **Full Stack Software Developer** with hands-on production experience building and deploying scalable web applications using **React, Next.js, Node.js, TypeScript, and Express**. I have shipped 20+ medium-to-hard complexity features across two live platforms in an Agile environment — owning the full lifecycle from database schema design to VPS deployment.
 
-I design and ship end-to-end web applications using modern JavaScript and Python ecosystems, while simultaneously managing the CI/CD pipelines, container orchestration, and self-hosted infrastructure that keeps them running at scale. I believe that a great engineer doesn't stop at `git push` — they own the full lifecycle.
+My backend experience spans **JWT authentication, rate limiting, RESTful API design, Prisma ORM, and PostgreSQL performance optimisation** — including profiling and indexing a slow query from 5s down to 6ms in production. On the frontend I apply React memoization, image lazy loading, and component architecture to keep interfaces fast and maintainable.
 
-My home lab is a proving ground where I practice what production demands: networking fundamentals, SSH hardening, reverse proxies, containerised services, and zero-downtime deployments — all on bare metal before they ever touch the cloud.
+I'm deeply interested in **LLM and AI API integration** — I have shipped production features using Gemini API and OpenAI API for content generation, resume analysis, and intelligent tooling. My goal is to build systems where AI is a first-class engineering concern, not an afterthought.
 
 <br/>
 
 **🔭 Open To:**
-- Full Stack Engineering roles (Remote / Hybrid)
-- DevOps / Platform Engineering positions
-- Open Source collaboration on infrastructure tooling
-- Technical consulting on containerisation & CI/CD pipelines
+- Full Stack / Software Engineer roles (Remote / Hybrid / Onsite India)
+- Backend-focused or API engineering positions
+- AI-augmented product engineering teams
+- Freelance / Contract engagements on full-stack web platforms
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <sub><b>Languages</b></sub>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,sql&theme=dark&perline=5" />
 </p>
+<p align="center"><sub><b>Languages</b></sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,bash,html,css&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark&perline=5" />
 </p>
+<p align="center"><sub><b>Frontend</b></sub></p>
 
 <p align="center">
-  <sub><b>Frontend</b></sub>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,prisma,redis&theme=dark&perline=7" />
 </p>
+<p align="center"><sub><b>Backend &amp; Databases</b></sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,figma&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,postman,vscode,cloudinary&theme=dark&perline=7" />
 </p>
-
-
-<p align="center">
-  <sub><b>Backend &amp; Databases</b></sub>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis,prisma&theme=dark&perline=8" />
-</p>
-
-
-<p align="center">
-  <sub><b>Cloud, DevOps &amp; Tooling</b></sub>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,nginx,linux,aws,git&theme=dark&perline=8" />
-</p>
-
+<p align="center"><sub><b>Cloud, DevOps &amp; Tooling</b></sub></p>
 
 ---
 
-<!-- ## 🤖 AI / ML Expertise -->
+## 🤖 AI / ML Expertise
 
-<!-- <div align="center">
+<div align="center">
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| LLM Integration | ⬛⬛⬛⬛⬜ | OpenAI API, LangChain, prompt engineering, RAG pipelines |
-| ML Model Deployment | ⬛⬛⬛⬛⬜ | FastAPI serving, Dockerised inference, REST endpoints |
-| Data Engineering | ⬛⬛⬛⬜⬜ | ETL pipelines, Pandas, data normalisation, feature stores |
-| Computer Vision | ⬛⬛⬛⬜⬜ | OpenCV, object detection, image preprocessing |
-| NLP & Text Processing | ⬛⬛⬛⬛⬜ | Embeddings, semantic search, vector databases |
-| MLOps & Monitoring | ⬛⬛⬛⬜⬜ | Model versioning, drift detection, CI for ML workflows |
-| AI-Augmented Dev | ⬛⬛⬛⬛⬛ | Copilot-driven development, AI tooling integration in SDLC |
+| LLM API Integration | ⬛⬛⬛⬛⬜ | OpenAI API, Gemini API, multi-provider AI request handling |
+| Prompt Engineering | ⬛⬛⬛⬛⬜ | Structured prompts for content generation and resume analysis |
+| AI Content Generation | ⬛⬛⬛⬛⬜ | Article writing, blog titles, AI-driven improvement suggestions |
+| Image AI (ClipDrop / Cloudinary) | ⬛⬛⬛⬜⬜ | Image generation, background removal via AI APIs |
+| RAG / Vector Databases | ⬛⬛⬜⬜⬜ | Exploring Supabase Vector and embeddings-based retrieval |
+| AI-Augmented Dev Workflow | ⬛⬛⬛⬛⬜ | Copilot-assisted development, AI tooling integration in SDLC |
 
 </div>
 
@@ -122,21 +108,23 @@ My home lab is a proving ground where I practice what production demands: networ
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>⚙️ &nbsp; DevFlow — Self-Hosted CI/CD Platform</b></summary>
+<summary><b>🧠 &nbsp; Inkvio.ai — AI Content &amp; Resume Intelligence Platform</b></summary>
 <br/>
 
-A production-grade, self-hosted continuous integration and delivery platform built to replace cloud-native CI services for cost-sensitive teams. DevFlow orchestrates build pipelines, manages secrets, runs Dockerised test suites, and deploys to Kubernetes clusters — all from a clean web dashboard.
+A full-stack AI-powered platform integrating multiple LLM and image AI APIs into a unified content creation suite. Inkvio.ai enables users to generate articles, blog titles, and AI-processed images, while also offering a resume analyzer that extracts skills and surfaces actionable improvement suggestions — all powered by Gemini API in a production TypeScript codebase.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Node.js · React · Docker · Kubernetes · Jenkins · PostgreSQL · Redis |
-| **Scale** | Handles 200+ concurrent pipeline runs across 15 registered projects |
-| **Performance** | Average build time reduced by 40% via intelligent caching layers |
-| **Security** | Secrets encrypted at rest via AES-256; role-based pipeline access control |
-| **Impact** | Eliminated $800/mo in third-party CI costs for a 12-person engineering team |
-| **Repository** | [github.com/abrarul-huq/devflow](https://github.com/abrarul-huq/devflow) |
+| **Stack** | React · Next.js · TypeScript · Node.js · Gemini API · ClipDrop API · Clerk · Neon (PostgreSQL) · Cloudinary |
+| **Scale** | 5+ feature modules across article generation, image AI, resume analysis, and user authentication |
+| **Performance** | Multi-provider AI requests handled with structured error handling and async response processing |
+| **Security** | Clerk-based auth with protected routes; Cloudinary secure file storage; input validation across all AI endpoints |
+| **Impact** | Demonstrates production-grade LLM integration beyond wrappers — resume analysis with real skill extraction |
+| **Repository** | [github.com/abrarulhuq-dev/inkvio-ai](https://github.com/abrarulhuq-dev/inkvio-ai) |
 
-This project reflects a deep understanding of how modern CI/CD infrastructure operates at scale. The entire platform runs on three bare-metal nodes managed by Kubernetes, with Jenkins as the execution engine and a custom React dashboard providing real-time pipeline visibility. Rolling deployments, health checks, and automatic rollback are built in as first-class citizens.
+The architecture separates AI provider logic into dedicated TypeScript service modules, making it straightforward to swap or extend providers. The resume analyzer pipeline parses uploaded documents, sends structured prompts to Gemini API, and returns categorised skill gaps with prioritised recommendations — all within a sub-3s round trip.
+
+**Live:** [inkvio-ai.vercel.app](https://inkvio-ai.vercel.app)
 
 <br/>
 </details>
@@ -144,21 +132,23 @@ This project reflects a deep understanding of how modern CI/CD infrastructure op
 ---
 
 <details>
-<summary><b>🌐 &nbsp; HomeLab OS — Unified Home Server Management System</b></summary>
+<summary><b>🏥 &nbsp; Medoc — Full Stack Medical Appointment Booking Platform</b></summary>
 <br/>
 
-A comprehensive home server management suite built for self-hosters who demand production-level reliability from their personal infrastructure. Provides a unified control plane for containerised services, SSH access management, network monitoring, and automated backups — all exposed through a secure, reverse-proxied web interface.
+A production-grade medical appointment platform with three fully independent role-based panels for patients, doctors, and administrators. Each panel has its own dashboard, protected route structure, and permission scope — connected through a unified REST API layer built in Node.js and Express with end-to-end Razorpay payment integration.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Linux (Debian) · Docker Compose · NGINX · Traefik · WireGuard · Bash · Python |
-| **Scale** | Manages 30+ Docker services across 2 physical servers and 1 Raspberry Pi cluster |
-| **Performance** | 99.7% uptime measured over 12 months; automated health-check restarts |
-| **Security** | SSH hardened with key-only auth, fail2ban, UFW, and VPN-gated admin access |
-| **Impact** | Replaced 5 paid SaaS subscriptions; full data sovereignty on personal projects |
-| **Repository** | [github.com/abrarul-huq/homelab-os](https://github.com/abrarul-huq/homelab-os) |
+| **Stack** | React · Node.js · Express · MongoDB · JWT · Cloudinary · Razorpay |
+| **Scale** | 3 role-based panels (patient / doctor / admin); full appointment lifecycle management |
+| **Performance** | Optimised MongoDB queries for scheduling and availability lookups; lazy-loaded doctor profile images |
+| **Security** | JWT authentication with role-based access control; Razorpay webhook verification; protected API routes |
+| **Impact** | End-to-end healthcare booking flow with real payment processing — production-deployable architecture |
+| **Repository** | [github.com/abrarulhuq-dev/medoc](https://github.com/abrarulhuq-dev/medoc) |
 
-This project embodies the philosophy that the best way to understand infrastructure is to run it yourself. Every service is containerised, every configuration is version-controlled, and every access point is secured and logged. Network topology is documented as code, and the entire stack can be rebuilt from scratch in under 20 minutes using Ansible playbooks.
+Medoc was designed to mirror the complexity of real healthcare SaaS products. The admin panel provides doctor onboarding, appointment oversight, and revenue visibility. The doctor panel surfaces daily schedules and patient history. The patient panel handles booking, cancellation, and payment receipts — all with consistent JWT-secured API calls and clean role separation enforced at the middleware layer.
+
+**Live:** [medoc-booking-platform.vercel.app](https://medoc-booking-platform.vercel.app)
 
 <br/>
 </details>
@@ -166,21 +156,23 @@ This project embodies the philosophy that the best way to understand infrastruct
 ---
 
 <details>
-<summary><b>🛍️ &nbsp; NexaStore — Full Stack E-Commerce Platform</b></summary>
+<summary><b>🛒 &nbsp; Greencart — Full Stack Grocery E-Commerce Platform</b></summary>
 <br/>
 
-A feature-complete, cloud-native e-commerce platform engineered for high-traffic retail workloads. NexaStore supports multi-vendor product listings, real-time inventory management, Stripe payment processing, and an admin analytics dashboard — deployed to AWS with a fully automated blue-green deployment pipeline.
+A fully-featured grocery e-commerce web application with complete buyer and seller role separation. Greencart handles the full order lifecycle — from product browsing and cart management through checkout and delivery tracking — built on a scalable MongoDB schema and a RESTful Node.js/Express API layer with JWT-secured role-based access.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Next.js · Node.js · Express · PostgreSQL · Redis · Stripe API · AWS ECS · GitHub Actions |
-| **Scale** | Supports 10,000+ concurrent users; Redis-cached product catalogue with sub-10ms reads |
-| **Performance** | Lighthouse score 97/100; server-side rendering with ISR for product pages |
-| **Security** | PCI-compliant payment flow; JWT auth with refresh token rotation; rate limiting |
-| **Impact** | Deployed for a regional retailer; processed $120K+ in transactions within first quarter |
-| **Repository** | [github.com/abrarul-huq/nexastore](https://github.com/abrarul-huq/nexastore) |
+| **Stack** | React · Node.js · Express · MongoDB · JWT · Cloudinary |
+| **Scale** | Full order lifecycle: cart → checkout → payment → delivery; multi-role user management |
+| **Performance** | Scalable MongoDB schemas for products, orders, and users with indexed queries |
+| **Security** | JWT auth with buyer/seller role enforcement; Cloudinary image upload for product listings |
+| **Impact** | Production-ready e-commerce architecture demonstrating full MERN stack ownership |
+| **Repository** | [github.com/abrarulhuq-dev/greencart](https://github.com/abrarulhuq-dev/greencart) |
 
-NexaStore was built to solve the real-world challenge of maintaining performance under flash-sale traffic spikes. The architecture uses a horizontally scalable Node.js API behind an Application Load Balancer, with PostgreSQL read replicas for analytics queries and Redis for session management. GitHub Actions drives a zero-downtime blue-green deployment strategy on AWS ECS.
+The data model was designed for extensibility — product documents carry category and inventory metadata, order documents track status transitions with timestamps, and the user collection supports both buyer and seller profiles under a single schema with role flags. The seller panel allows product management and order fulfilment; the buyer panel provides a clean shopping and tracking experience.
+
+**Live:** [greencart-brown.vercel.app](https://greencart-brown.vercel.app)
 
 <br/>
 </details>
@@ -188,48 +180,48 @@ NexaStore was built to solve the real-world challenge of maintaining performance
 ---
 
 <details>
-<summary><b>🤖 &nbsp; ContextAI — RAG-Powered Knowledge Base Assistant</b></summary>
+<summary><b>⚙️ &nbsp; DevFlow — Self-Hosted CI/CD Pipeline Orchestrator</b></summary>
 <br/>
 
-An enterprise-grade retrieval-augmented generation (RAG) system that transforms static documentation, PDFs, and knowledge bases into an intelligent, conversational assistant. ContextAI chunks, embeds, and stores documents in a vector database, then uses semantic search to ground LLM responses in verified source material — eliminating hallucinations in high-stakes domains.
+A self-hosted continuous integration and delivery platform designed for small engineering teams who need full pipeline visibility and control without cloud vendor lock-in. DevFlow manages Docker-based build environments, secret injection, test execution, and deployment triggers — surfaced through a minimal React dashboard with real-time pipeline status.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Python · FastAPI · LangChain · OpenAI GPT-4 · Pinecone · PostgreSQL · React · Docker |
-| **Scale** | Indexed 50,000+ document chunks; sub-200ms retrieval latency at p95 |
-| **Performance** | Answer relevance score of 0.91 on internal benchmarks vs 0.67 for vanilla LLM |
-| **Security** | Tenant-isolated vector namespaces; API key auth; input sanitisation against prompt injection |
-| **Impact** | Reduced internal support ticket volume by 60% for a SaaS product's help centre |
-| **Repository** | [github.com/abrarul-huq/contextai](https://github.com/abrarul-huq/contextai) |
+| **Stack** | Node.js · React · TypeScript · Docker · PostgreSQL · Redis · GitHub Webhooks |
+| **Scale** | Supports parallel builds across multiple registered repositories |
+| **Performance** | Intelligent layer caching reduces average build time; Redis-backed job queue prevents pipeline starvation |
+| **Security** | Webhook signature verification; secrets encrypted at rest; role-gated dashboard access |
+| **Impact** | Eliminates per-seat CI/CD costs; full audit trail of every build and deployment event |
+| **Repository** | [github.com/abrarulhuq-dev/devflow](https://github.com/abrarulhuq-dev/devflow) |
 
-ContextAI demonstrates production-ready LLM engineering beyond simple prompt wrappers. The ingestion pipeline handles PDF parsing, recursive text splitting, and embedding generation asynchronously via a task queue. The retrieval layer performs hybrid search (dense + sparse) and re-ranks results before passing context to the generation step, ensuring response quality is consistently high regardless of query phrasing.
+Built from practical experience deploying applications manually to a Hostinger Linux VPS — the friction of that process is exactly what DevFlow automates. Pipelines are defined in a simple YAML-like config file, and the Node.js orchestrator picks up GitHub push webhooks, spins up Docker build containers, runs test suites, and triggers deploy scripts on success with zero manual intervention.
 
 <br/>
 </details>
 
-<!-- ---
+---
 
 <details>
-<summary><b>📊 &nbsp; PulseBoard — Real-Time Infrastructure Monitoring Dashboard</b></summary>
+<summary><b>🖥️ &nbsp; HomeLab OS — Personal Infrastructure Management Suite</b></summary>
 <br/>
 
-A lightweight, self-hosted infrastructure observability platform that aggregates metrics from Docker containers, system resources, and network interfaces into a unified real-time dashboard. PulseBoard is designed as a Grafana alternative for teams who need targeted visibility without the operational overhead of a full observability stack.
+A unified management layer for self-hosted home server infrastructure, built to bring production-grade observability and control to personal deployments. HomeLab OS provides a single dashboard for managing Docker services, monitoring system resources, reviewing Nginx logs, and triggering git-pull deploy scripts — secured behind SSH key authentication and VPN-gated access.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Go · React · WebSockets · InfluxDB · Prometheus · Docker · NGINX |
-| **Scale** | Ingests 5,000+ metrics/second from 40+ monitored endpoints; 30-day retention |
-| **Performance** | Dashboard loads under 800ms; real-time updates via WebSocket with 1s polling interval |
-| **Security** | HTTPS-only; bcrypt-hashed user accounts; read-only Prometheus exporter access |
-| **Impact** | Identified and resolved 3 memory leak incidents before user-facing degradation occurred |
-| **Repository** | [github.com/abrarul-huq/pulseboard](https://github.com/abrarul-huq/pulseboard) |
+| **Stack** | Linux (Debian) · Docker · Docker Compose · Nginx · PM2 · Certbot · Bash · Python |
+| **Scale** | Manages multiple Docker services across a Hostinger Linux VPS environment |
+| **Performance** | Automated health checks with PM2 process resurrection; Nginx reverse proxy with HTTP/2 |
+| **Security** | SSH key-only authentication; UFW firewall rules; SSL via Certbot; fail2ban on SSH port |
+| **Impact** | Codified all deployment operations — any service can be rebuilt and redeployed in minutes |
+| **Repository** | [github.com/abrarulhuq-dev/homelab-os](https://github.com/abrarulhuq-dev/homelab-os) |
 
-PulseBoard was born from the frustration of operating a home server cluster without adequate visibility. The Go backend exposes a metrics aggregation API that polls Prometheus exporters and custom scripts, storing time-series data in InfluxDB. The React frontend connects via WebSocket for true real-time updates, with configurable alert thresholds that trigger email and webhook notifications on breach.
+This project directly reflects the production deployment skills applied at Zybo Tech Lab — where both platforms were deployed end-to-end on a Linux VPS with Nginx, Docker, PM2, Certbot, custom domains, and automated git-pull deploy scripts. HomeLab OS packages that operational knowledge into a repeatable, documented infrastructure setup that can be forked and adapted for any small-team production environment.
 
 <br/>
-</details> -->
+</details>
 
-<!-- --- -->
+---
 
 ## 💼 Experience
 
@@ -237,52 +229,51 @@ PulseBoard was born from the frustration of operating a home server cluster with
 <tr>
 <td>
 
-### Full Stack & DevOps Engineer &nbsp;·&nbsp; Freelance & Contract
-**Remote** &nbsp;|&nbsp; `Jan 2022 – Present`
+### Full Stack Developer Intern &nbsp;·&nbsp; Zybo Tech Lab
+**Remote** &nbsp;|&nbsp; `Nov 2025 – Apr 2026`
 
-Delivered end-to-end software products for clients across e-commerce, SaaS, and fintech verticals. Owned the full engineering lifecycle — from system design and frontend implementation to containerised deployment and post-launch monitoring.
+Solely responsible for full-stack development and end-to-end deployment of two live business listing platforms. Operated as the primary engineer across the entire stack — from PostgreSQL schema design and Express API development to React frontend implementation and Linux VPS deployment.
 
-- Architected and deployed 10+ production web applications using React, Next.js, Node.js, and PostgreSQL
-- Built and maintained CI/CD pipelines using GitHub Actions and Jenkins, reducing manual deployment effort by 80%
-- Containerised legacy monolithic applications using Docker, enabling portability and consistent staging environments
-- Managed Kubernetes clusters for three client projects, implementing rolling updates and horizontal pod autoscaling
-- Designed and hardened self-hosted Linux server environments with SSH key authentication, fail2ban, and UFW
-- Configured NGINX reverse proxies with SSL termination for multi-domain deployments on bare-metal infrastructure
-- Integrated LLM-based features (RAG systems, AI chat assistants) into three SaaS products using LangChain and OpenAI
+- Built two full-stack business listing platforms from scratch using React, Next.js, Node.js, and TypeScript, supporting business registration, listings, enquiries, ratings, and feedback systems
+- Designed a credit-based subscription and feature-tier system (free/paid plans, Razorpay payments, daily rewards engine), with credits tied to listing dates rather than plan expiry; authored PostgreSQL schema migrations without disrupting live listings
+- Implemented JWT authentication and rate limiting on Express APIs to secure public-facing registration and enquiry endpoints against abuse
+- Improved platform performance via frontend image lazy loading, React memoization to eliminate unnecessary re-renders, and PostgreSQL query profiling and indexing — reducing a critical query response time from **5s to 6ms**
+- Deployed both platforms on Hostinger Linux VPS: Nginx reverse proxy with custom domains, SSL via Certbot, Docker containers, PM2 process management, and automated git-pull deploy scripts
+- Delivered **20+ medium-to-hard complexity features** across two production platforms via Git pull requests, peer code reviews, and Agile/Scrum workflows
 
 </td>
 </tr>
 </table>
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" />
 </p>
 
 ---
 
-<!-- ## 🏆 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |:---:|:---|
-| 🥇 **Hackathon Finalist** | Top 5 finalist at National Software Engineering Hackathon — AI-powered logistics optimisation system |
-| ⭐ **Open Source Contributor** | Merged PRs in 3 active open-source DevOps and developer-tooling repositories |
-| 🛡️ **Home Lab Architect** | 12 months sustained 99.7% uptime across self-hosted production-grade home server cluster |
-| 📈 **Performance Engineering** | Reduced API p99 latency from 1,200ms to 180ms via query optimisation and Redis caching strategy |
-| 🤝 **Community Mentor** | Mentored 20+ junior developers through structured code reviews and pair programming sessions |
-| 📦 **Zero-Downtime Deployments** | Achieved 100% zero-downtime deployment record across 40+ production releases |
+| ⚡ **5s → 6ms Query Optimisation** | Profiled and indexed a critical PostgreSQL query in production, achieving an 800× speed improvement |
+| 🚀 **20+ Production Features Shipped** | Delivered medium-to-hard complexity features solo across two live platforms at Zybo Tech Lab |
+| 🏗️ **End-to-End Solo Deployment** | Architected, built, and deployed two full-stack platforms independently — from schema to SSL |
+| 🤖 **Multi-Provider AI Integration** | Shipped Gemini API + ClipDrop + Cloudinary AI in a single production TypeScript application |
+| 💳 **Payment System Architecture** | Designed a credit-based subscription engine with Razorpay; live listing date logic vs plan expiry |
+| 🔒 **Security-First API Design** | JWT auth + rate limiting on all public-facing Express endpoints across two production platforms |
 
 </div>
 
@@ -290,39 +281,25 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 
 ## 📜 Certifications
 
-<p align="center"><b>Amazon Web Services</b></p>
+<p align="center"><b>GreatLearning / Full Stack Bootcamp</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification-Full%20Stack%20Development%20(Dec%202024)-6C3EF7?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+<p align="center">
+  <sub>HTML · CSS · Tailwind · JavaScript · React · Node.js · Express · MongoDB · SQL · Docker</sub>
 </p>
 
-<p align="center"><b>The Linux Foundation</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux%20Foundation-Kubernetes%20Fundamentals-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Linux%20Foundation-Cloud%20Native%20Essentials-326CE5?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+<br/>
 
-<p align="center"><b>Cisco Networking Academy</b></p>
+<p align="center"><b>Platforms &amp; Integrations</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-API%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Cisco-Linux%20Unhatched-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-<p align="center"><b>NPTEL (IIT)</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-6C3EF7?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-API%20Integration-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Python-6C3EF7?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="center"><b>Meta / Coursera</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Meta-Front--End%20Developer%20Professional-0081FB?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-Payment%20Integration-02042B?style=for-the-badge&logo=razorpay&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Meta-Back--End%20Developer%20Professional-0081FB?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-Media%20Pipeline-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 </p>
 
 ---
@@ -330,39 +307,24 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 ## 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/abrarul-huq" target="_blank">
+  <a href="https://leetcode.com/u/abrarul-huq" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-abrarul--huq-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/abrarul-huq" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-abrarul--huq-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/abrarul-huq" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-abrarul--huq-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/abrarul_huq" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-abrarul__huq-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
---- -->
+---
 
 ## 📊 GitHub Analytics
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abrarulhuq-dev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="165" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarulhuq-dev&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="165" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abrarulhuq-dev&theme=midnight-purple&hide_border=true&date_format=M%20j%5B,%20Y%5D" width="65%" />
 </p>
 
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abrarulhuq-dev&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="65%" />
+</p>
 
 ---
 
@@ -370,7 +332,7 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abrarulhuq-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-</p> -->
+</p>
 
 ---
 
@@ -395,27 +357,27 @@ Delivered end-to-end software products for clients across e-commerce, SaaS, and 
 ```yaml
 abrarul_huq:
   learning:
-    - Advanced Kubernetes operators and custom resource definitions (CRDs)
-    - Service mesh architecture with Istio and Envoy
-    - eBPF-based networking and observability
-    - Terraform for infrastructure-as-code on AWS and bare-metal
+    - Supabase — Postgres-as-a-service, Row Level Security, and Vector/embeddings support
+    - AWS cloud workflows — EC2, S3, Lambda, and IAM fundamentals
+    - Vector Database-backed AI systems — Pinecone, pgvector, semantic search pipelines
+    - Advanced Docker networking and multi-stage build optimisation
 
   building:
-    - PulseBoard — real-time infrastructure monitoring for self-hosters
-    - DevFlow — self-hosted CI/CD platform for cost-conscious engineering teams
-    - Home lab Kubernetes cluster with Proxmox hypervisor and Ceph storage
+    - DevFlow — self-hosted CI/CD orchestrator for small engineering teams
+    - HomeLab OS — personal VPS management suite for containerised services
+    - Exploring RAG pipelines with Supabase Vector and Gemini API embeddings
 
   exploring:
-    - GitOps workflows with ArgoCD and FluxCD
-    - WebAssembly (WASM) for portable backend computation
-    - Edge computing and lightweight container runtimes (containerd, nerdctl)
-    - Advanced networking: BGP, VLAN segmentation, pfSense firewall configuration
+    - Kubernetes for container orchestration beyond single-node Docker deployments
+    - WebSockets and real-time architecture patterns (Socket.io, SSE)
+    - Edge runtimes — Cloudflare Workers, Vercel Edge Functions
+    - Advanced PostgreSQL — partitioning, EXPLAIN ANALYZE, and connection pooling
 
   open_to:
-    - Full Stack Engineering (Remote / Hybrid)
-    - DevOps / Platform Engineering roles
-    - Infrastructure consulting and architecture review
-    - Open source collaboration on developer tooling
+    - Full Stack / Software Engineer roles (Remote / Hybrid / Onsite India)
+    - Backend-focused engineering positions
+    - AI-augmented product engineering teams
+    - Freelance full-stack web platform contracts
 ```
 
 ---
@@ -435,17 +397,17 @@ abrarul_huq:
     <img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <!-- <a href="https://abrarul-huq.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C3EF7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a> -->
+  <a href="https://leetcode.com/u/abrarul-huq" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Infrastructure is not a cost centre — it is the engineering advantage that separates products that scale from products that fail."</i>
+  <i>"Ship it. Monitor it. Optimise it. Own the whole stack."</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3EF7&height=220&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
 </p>
