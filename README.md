@@ -101,9 +101,9 @@ My home lab is a proving ground where I practice what production demands: networ
 
 ---
 
-## 🤖 AI / ML Expertise
+<!-- ## 🤖 AI / ML Expertise -->
 
-<div align="center">
+<!-- <div align="center">
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
@@ -227,7 +227,7 @@ A lightweight, self-hosted infrastructure observability platform that aggregates
 PulseBoard was born from the frustration of operating a home server cluster without adequate visibility. The Go backend exposes a metrics aggregation API that polls Prometheus exporters and custom scripts, storing time-series data in InfluxDB. The React frontend connects via WebSocket for true real-time updates, with configurable alert thresholds that trigger email and webhook notifications on breach.
 
 <br/>
-</details>
+</details> -->
 
 ---
 
