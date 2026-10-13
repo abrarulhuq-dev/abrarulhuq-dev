@@ -182,7 +182,7 @@ The data model was designed for extensibility — product documents carry catego
 
 ---
 
-<details>
+<!-- <details>
 <summary><b>⚙️ &nbsp; DevFlow — Self-Hosted CI/CD Pipeline Orchestrator</b></summary>
 <br/>
 
@@ -222,7 +222,7 @@ A unified management layer for self-hosted home server infrastructure, built to 
 This project directly reflects the production deployment skills applied at Zybo Tech Lab — where both platforms were deployed end-to-end on a Linux VPS with Nginx, Docker, PM2, Certbot, custom domains, and automated git-pull deploy scripts. HomeLab OS packages that operational knowledge into a repeatable, documented infrastructure setup that can be forked and adapted for any small-team production environment.
 
 <br/>
-</details>
+</details> -->
 
 ---
 
